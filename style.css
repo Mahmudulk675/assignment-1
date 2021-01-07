@@ -126,11 +126,41 @@ section{
     background-repeat: no-repeat;
     background-position: center;
 }
-/* .inquary{
+.inquary{
     text-align: center;
-    padding-top: 300px;
-    color: white; */
+    padding-top: 290px;
 }
-.chat{
+.work-inquary{
+    color: white;
+    padding-right: 130px;
     
 }
+.chat{
+    float: right;
+    margin: 10px;
+    padding: 10px;
+    background-image: linear-gradient(45deg,rgb(255, 136, 0), rgb(218, 114, 17));
+    border-radius: 5px;
+}
+.chat-box{
+    padding-right: 350px;
+    padding-bottom: 60px;
+    margin-bottom: 30px;
+    
+}
+.last-part{
+    margin-left: 500px;
+    margin-top: 15px;
+   
+}
+.last-text{
+    margin-left:70px ;
+}
+.icon img{
+    width: 40px;
+
+}
+.icon{
+    margin-left: 70px;
+}
+.last-part h5
